@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrkshm
+- 🌱 I’m doing the web developer course on OpenClassrooms.
+- 👀 I’m interested in meeting other people doing the the same course, a study buddy or some such.
+- 📫 You can reach me at mrks.heumann@gmail.com
