@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrkshm
-- 🌱 I’m doing the web developer course on OpenClassrooms.
-- 👀 I’m interested in meeting other people doing the the same course, a study buddy or some such.
-- 📫 You can reach me at mrks.heumann@gmail.com
+- 👋 Hi, I’m mrks, I am an experienced front end / center stack developer with a passion for design and product strategy.
+- 🌱 I have worked in a range of technologies but nowadays I code mostly in React / Next.js / Remix, and more recently have been excited  about Solid and Svelte.
+- 👩🏽‍💻 I have a strong sense of design and user experience, and I enjoy working closely with clients to understand their needs and vision for their project. 
+- 📫 You can reach me at hey@mrks.me
