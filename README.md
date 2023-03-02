@@ -1,4 +1,5 @@
 - 👋 Hi, I’m mrks, I am an experienced front end / center stack developer with a passion for design and product strategy.
 - 🌱 I have worked in a range of technologies but nowadays I code mostly in React / Next.js / Remix. I am excited about Solid and Svelte and what the future holds for user-focused web development.
 - 👩🏽‍💻 I have a strong sense of design and user experience, and I enjoy working closely with clients to understand their needs and vision for their project. 
+- 🎤 I enjoy speaking about the design process, user-centric web development and the new wave of reactive frameworks and the advantages they have for both business / conversion rates and usability.
 - 📫 You can reach me at hey@mrks.me
